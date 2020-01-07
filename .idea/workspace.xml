@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb0785f3-4c26-48fd-8dff-2a5ab98d36ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U1VSvPJWQaw8F0WZ450ovRdKl7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="slagalica" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\User files\Documents\NetBeansProjects\Slagalica\src\slagalica" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="slagalica.model.recnik" />
+      <recent name="slagalica.poruke" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\User files\Documents\NetBeansProjects\Slagalica\src\slagalica\Staro" />
+      <recent name="D:\User files\Documents\NetBeansProjects\Slagalica\src\slagalica\grafika" />
+      <recent name="D:\User files\Documents\NetBeansProjects\Slagalica\src\slagalica" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="KompjuterRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slagalica.model.kompjuter.KompjuterRec" />
+      <module name="Slagalica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slagalica.controller.poruka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KonvertorRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slagalica.model.konvertovanje.KonvertorRec" />
+      <module name="Slagalica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slagalica.model.konvertovanje.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slagalica.Main" />
+      <module name="Slagalica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slagalica.engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProveravacRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slagalica.model.poruka.ProveravacRec" />
+      <module name="Slagalica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slagalica.model.poruka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecnikRepository" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slagalica.data.RecnikRepository" />
+      <module name="Slagalica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slagalica.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ProveravacRec" />
+        <item itemvalue="Application.KompjuterRec" />
+        <item itemvalue="Application.KonvertorRec" />
+        <item itemvalue="Application.RecnikRepository" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb0785f3-4c26-48fd-8dff-2a5ab98d36ae" name="Default Changelist" comment="" />
+      <created>1574524091332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574524091332</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" width="816" height="729" key="#Intentions" timestamp="1577808494507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" width="816" height="729" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1577808494507" />
+    <state x="903" y="170" key="#Main" timestamp="1575396386906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="903" y="170" key="#Main/0.0.1920.1040@0.0.1920.1040" timestamp="1575396386906" />
+    <state x="677" y="179" key="#Main_(1)" timestamp="1577529245538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="179" key="#Main_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1577529245538" />
+    <state x="903" y="170" key="#Slagalica_(1)" timestamp="1575581890905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="903" y="170" key="#Slagalica_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1575581890905" />
+    <state x="681" y="341" key="#com.intellij.ide.util.MemberChooser" timestamp="1578307817598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="341" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578307817598" />
+    <state x="890" y="240" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577447154793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="890" y="240" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577447154793" />
+    <state x="505" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578337442070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578337442070" />
+    <state x="899" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577376769347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="899" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577376769347" />
+    <state width="1877" height="155" key="GridCell.Tab.0.bottom" timestamp="1578343791531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="155" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578343791531" />
+    <state width="1877" height="155" key="GridCell.Tab.0.center" timestamp="1578343791531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="155" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578343791531" />
+    <state width="1877" height="155" key="GridCell.Tab.0.left" timestamp="1578343791531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="155" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578343791531" />
+    <state width="1877" height="155" key="GridCell.Tab.0.right" timestamp="1578343791531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="155" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578343791531" />
+    <state x="766" y="254" key="IDE.errors.dialog" timestamp="1578226098441">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="766" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578226098441" />
+    <state x="666" y="149" key="refactoring.ChangeSignatureDialog" timestamp="1577734640761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="149" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577734640761" />
+    <state x="842" y="238" key="run.anything.popup" timestamp="1577719168004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="842" y="238" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577719168004" />
+    <state x="873" y="232" width="696" height="678" key="search.everywhere.popup" timestamp="1575401878161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="873" y="232" width="696" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575401878161" />
+  </component>
+</project>
